@@ -1,9 +1,13 @@
-# IRWP
-Let this page be the documentation for the IRWP DSC Project.
+# IRWP --> IHELP
 
+IHELP DSC Project documentation.
 
-- Figure out how to link github and squarespace
-- Best practices when editing with squarespace? Just use their format and customize when desired?
+Welcome to the IHELP project team Github page! We are currently hosting our site via Squarespace. You can view the corresponding code for the site in the template folder.
 
-- figure out redesign direction from julie
-- get login and edit access
+Team Members:
+Maclee Machado
+Shruthi Ramalingam
+Nicholas Blake
+Elijah Olasunkanmi
+Priyaka Iyer
+Raeka Attari
